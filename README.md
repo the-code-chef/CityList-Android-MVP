@@ -1,7 +1,7 @@
 # CityList-Android-MVP
 
 # A Simple Android Apps with MVP, Dagger, RxJava, and Retrofit
-[!Screenshot]()
+[!Screenshot](https://github.com/sinhaDroid/CityList-Android-MVP/blob/master/Screenshot_1480332396.png)
 
 A moment ago, I was learn how to develop an Android Apps with the clean architecture. So, what have I learned? I was learn how to implements MVP, Dagger, RxJava, and Retrofit on a sample project. I have made an Android Apps that’s call an API from a mock server and retrieve text and image into a RecycleView.
 
